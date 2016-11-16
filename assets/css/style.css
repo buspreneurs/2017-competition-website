@@ -983,6 +983,8 @@ Sections
   margin: 0;
 }
 
+
+
 /* Half-image */
 
 .side-image {
@@ -2223,6 +2225,16 @@ Scroll to top
   opacity: 1;
   color: #000;
 }
+
+
+section#vote a.vote-link {
+  text-decoration: underline;
+  font-size: 20px;
+  color: #4078c0;
+  display: block;
+  margin-top: 30px;
+}
+
 
 /* -------------------------------------------------------------------
 Responsive Media Querries
